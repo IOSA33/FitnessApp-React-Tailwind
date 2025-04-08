@@ -7,6 +7,11 @@ export default function Hero() {
             <p> IT'S time </p>
             <h1>IOSA</h1>
             <p>Your text...</p>
+
+            <button className="px-8 py-4 rounded-md border-[2px] bg-slate-950 border-blue-400 border-solid blueShadow duration-200">
+                <p>Accept & Begin</p>
+            </button>
+
         </div>
     )
 }
